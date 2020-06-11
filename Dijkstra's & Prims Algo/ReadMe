@@ -1,0 +1,19 @@
+Name: Prathamesh Nitin Lonkar
+BNumber: B00811727
+Email: plonkar1@binghamton.edu
+
+How to run The programs:
+1.) Open terminal in the folder and type "make".
+2.)To run the Dijkstras algorithm type ./Dijsktras
+3.)To run the prims algorithm tyoe ./prims
+4.)To clean all object  files type "make clean"
+
+Documents in the Folder
+1.)Dijsktras.c file
+2.)prims.c file
+3.)Makefile
+4.)ReadMe
+5.)Homework 6 pdf
+
+Reference:
+Notes provided by Professor.

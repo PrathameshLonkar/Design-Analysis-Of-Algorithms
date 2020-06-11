@@ -1,0 +1,20 @@
+Name: Prathamesh Lonkar
+BNumber: B00811727
+
+To run the programs follow the steps:
+
+1.) Open terminal in the folder
+2.)run the commands: make
+3.)To run either of the 3 problems type ./problem1 or ./problem2 or ./problem3
+
+For selection sort i have taken reference from prof's pseudo code given in his video lectures.
+For The 3rd problem I have used the binary search algorith to find the value as it has the time complexity of O(lgn)
+
+I have given the explaination within the code using comments.
+
+The folder has the following documents:
+
+1.) Three .c files which are the solutions to the coding part.
+2.)make file to run the codes as mentioned above
+3.)A pdf contaning the answers to the Theory Questions
+3.)A ReadMe.

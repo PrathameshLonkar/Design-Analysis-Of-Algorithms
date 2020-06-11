@@ -1,0 +1,17 @@
+Name: Prathamesh Nitin Lonkar
+BNumber: B00811727
+
+Steps to run the code:
+1.)Open terminal in the folder location
+2.)Type the command "make" 
+3.) a.)To run the knapsack program type command "./knapsack"
+b.)To run the coin count program type command "./coin_change"
+c.)To run the third program type the command "./coin_change_nk"
+
+documents attached in the folder are:
+1.)ReadMe
+2.)makefile
+3.)knapsack.c file
+4.)coin_change.c file
+5.)coin_change_nk.c file
+6.)Written part pdf. 

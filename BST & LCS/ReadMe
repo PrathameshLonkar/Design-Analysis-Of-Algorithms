@@ -1,0 +1,18 @@
+Name: Prathamesh Lonkar
+BNumber: B00811727
+Email: plonkar1@binghamton.edu
+
+
+I had taken extra days for this assignment from the professor as i was not feeling well, If you want i can forward you the mail, please inform me through the above mail id.
+How to Run:
+1.)Open terminal in the folder 
+2.)Type "g++ TreeAndLCStester.cpp" which will generate an a.out file
+3.) type ./a.out
+You will be asked which code to be run, just enter your options
+
+
+IN the BST Code I have made some changes in the BST.h file so that I could Design the code according to my way.
+I was not able to fully implement the avl conversion, but it can perform a conversion after the delete function has been implemented as mentioned in the document.
+
+In the LCS code I was not able to figure out how to perform the backtracking and have not done it but it is able to give the length of longest common subsequence.
+
